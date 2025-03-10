@@ -13,6 +13,7 @@ body{
     background-color: black;
     width: 100%;
 }
+
 /* --------Header--------- */
 header {
     height: 98vh;
@@ -23,11 +24,9 @@ header {
     background-size: cover;
     position: relative;
 }
-
 nav img {
     height: 40px;
 }
-
 nav {
     height: 15vh;
     max-width: 80vw;
@@ -39,7 +38,6 @@ nav {
     z-index: 10;
     background: linear-gradient(black, transparent);
 }
-
 nav button {
     height: 35px;
     width: 80px;
@@ -47,19 +45,15 @@ nav button {
     color: white;
     border: none;
 }
-
 nav div {
     display: flex;
     gap: 10px;
 }
-
-
 nav button:first-child {
     width: 120px;
     border: 1px solid rgb(134, 130, 130);
     background-color: transparent;
 }
-
 nav button:first-child i {
     margin-left: 5px;
 }
@@ -74,18 +68,15 @@ select{
     border: none;
     appearance: none;
 }
-
 select option{
     color:black;
 }
-
 nav button:last-child {
     cursor: pointer;
     background-color: red;
     font-weight: 700;
     font-size: 15px;
 }
-
 .black-shade {
     top: 0px;
     left: 0px;
@@ -94,10 +85,7 @@ nav button:last-child {
     background-color: black;
     opacity: 0.7;
     position: absolute;
-    
-
 }
-
 .header-body {
     height: 83vh;
     max-width: 100%;
@@ -112,7 +100,6 @@ nav button:last-child {
     gap: 10px;
     position: relative;
 }
-
 .header-body span:nth-child(1) {
     font-weight: 900;
     font-size: 55px;
@@ -120,27 +107,23 @@ nav button:last-child {
     text-align: center;
     box-sizing: border-box;
 }
-
 .header-body span:nth-child(2) {
     font-weight: 500;
     font-size: 20px;
     padding: 5px 5px;
 }
-
 .header-body span:nth-child(3) {
     font-weight: 350;
     font-size: 18px;
     padding: 5px 15px;
     margin: 5px 0px;
 }
-
 .header-body div {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
 }
-
 .header-body div input {
     height: 50px;
     border: 1px solid rgb(134, 130, 130);
@@ -152,7 +135,6 @@ nav button:last-child {
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #fff;
 }
-
 .header-body div button {
     height: 50px;
     width: 200px;
@@ -164,19 +146,16 @@ nav button:last-child {
     font-weight: 700;
     font-size: 20px;
 }
-
 .header-body div button i {
     margin-left: 15px;
     font-weight: 600;
 }
-
 .line {
     height: 7px;
     width: 100%;
     background: linear-gradient(to right, rgba(33, 13, 22, 1) 16%, rgba(184, 40, 105, 1), rgba(229, 9, 20, 1), rgba(184, 40, 105, 1), rgba(33, 13, 22, 1) 84%);
     position: relative;
 }
-
 
 /* -----------------section-------------- */
 .section {
@@ -192,20 +171,16 @@ nav button:last-child {
     overflow-x: scroll;
     padding-left: 35px;
 }
-
 .cards {
     width: 180px;
     height: 280px;
     position: relative;
 }
-
 .cards img {
     width: 180px;
     height: 270px;
     border-radius: 10px;
 }
-
-
 .cards span {
     position: absolute;
     bottom: 10px;
@@ -216,37 +191,30 @@ nav button:last-child {
     -webkit-text-stroke-width: 2px;
     color: black;
 }
-
 .card-button {
     position: absolute;
     right: -35px;
     top: 130px;
     z-index: 10;
 }
-
 .card-button button {
     height:130px ;
     background-color: rgb(37, 37, 37);
     border: none;
     border-radius: 10px;
 }
-
 .card-button button svg {
     color: white;
 }
-
 .card-button button:hover {
     background-color: rgb(71, 71, 71);
     cursor: pointer;
 }
-
-
 .cards:hover {
     transition: all ease 0.2s;
     transform: scale(1.05);
     cursor: pointer;
 }
-
 .flex-cards::-webkit-scrollbar {
     appearance: none;
 }
