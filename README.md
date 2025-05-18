@@ -11,3 +11,8 @@ This project is a Netflix Web UI Clone Containing only HTML and CSS, created onl
 • If you are a representative of Netflix and believe this project violates any policies, please contact me: sankarrayi8888@gmailcom, and I will remove any necessary content immediately.
 
 This project is strictly for personal learning and not for commercial use.
+
+## 🔗 Live Demo
+
+[Click here to view the live site](https://netfilx-ui-clone-smartsankarcode.netlify.app/) //Typo😓#netflix
+
