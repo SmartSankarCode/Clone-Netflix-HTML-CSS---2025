@@ -1,6 +1,27 @@
-Disclaimer
+# Netflix UI Clone
 
-This project is a Netflix Web UI Clone Containing only HTML and CSS, created only for educational and practice purposes.
+This is a simple **Netflix UI Clone** built using only **HTML** and **CSS**.  
+It replicates the look and feel of the Netflix homepage with a responsive layout and basic styling.
+
+## Features
+
+- Responsive design for desktop and mobile screens  
+- Styled homepage with Netflix branding  
+- Static UI with sections like "Trending Now"  
+- Hover effects on content thumbnails  
+- Clean and modern layout using Flexbox and CSS Grid
+
+## Technologies Used
+
+- HTML5  
+- CSS3 (Flexbox, Grid, Transitions)
+
+## 🔗 Live Demo
+
+[Click here to view the live site](https://netfilx-ui-clone-smartsankarcode.netlify.app/) //Typo😓#netflix
+
+
+## Disclaimer
 
 • This project is not affiliated with, endorsed by, or associated with Netflix Inc.
 
@@ -12,7 +33,4 @@ This project is a Netflix Web UI Clone Containing only HTML and CSS, created onl
 
 This project is strictly for personal learning and not for commercial use.
 
-## 🔗 Live Demo
-
-[Click here to view the live site](https://netfilx-ui-clone-smartsankarcode.netlify.app/) //Typo😓#netflix
 
